@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HamzaAbdullahi-analytics  
 - 👀 I’m interested in data storytelling, creative strategy, sports & music analytics, and marketing tech  
-- 🌱 I’m currently sharpening my skills in Python, SQL, and IBM Cognos while building a portfolio of data-driven projects  
+- 🌱 Skills in Python, SQL, and IBM Cognos while building a portfolio of data-driven projects.  
 - 💞️ I’m looking to collaborate on anything involving data, brand growth, creative insights, or tech x culture intersections  
 - 📫 Reach me at hamzaelite88@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/hamza-a-68a88013a/)    
 - ⚡ Fun fact: I shoot 35mm film, build dashboards like mixtapes, and turn data into strategy. Sports analytics, business, finance, you name it. I will get the job done. 
